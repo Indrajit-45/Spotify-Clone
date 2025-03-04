@@ -21,19 +21,11 @@ This is a **Spotify Frontend Clone** built using **React**. It replicates the UI
 To run this project locally, follow these steps:
 
 ### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/Indrajit-45/Spotify-Clone.git
-cd spotify-clone
+
 2️⃣ Install Dependencies
-bash
-Copy
-Edit
-npm install
+   npm install
 3️⃣ Start the Development Server
-bash
-Copy
-Edit
-npm start
+   npm run dev
 
 🌍 Live Demo
 Check out the live version of this project: Spotify Clone
